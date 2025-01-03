@@ -1,1 +1,1 @@
-#Image Classification using Semi-Supervised Learning
+Image Classification using Semi-Supervised Learning
